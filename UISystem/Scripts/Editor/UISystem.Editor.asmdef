@@ -1,0 +1,17 @@
+{
+    "name": "UISystem.Editor",
+    "references": [
+        "GUID:57cb1d151e94fde4188f67da1783f6db"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
